@@ -11,7 +11,7 @@
 
 | 按鍵 | 說明 | 注意事項 |
 | --- | --- | --- |
-| `\` | 次常用 | 系統預設的「[leader](https://vimhelp.org/map.txt.html#mapleader)」，我沒有更改，也就是「[backslash](https://vimhelp.org/intro.txt.html#backslash)」 |
+| `\` | 次常用 | vim預設的「[leader](https://vimhelp.org/map.txt.html#mapleader)」，我沒有更改，也就是「[backslash](https://vimhelp.org/intro.txt.html#backslash)」 |
 | `,` | 常用 | 注意「[,](https://vimhelp.org/motion.txt.html#,)」原本是有功能的 |
 | `t` | TabPage 相關功能 | 注意「[t](https://vimhelp.org/motion.txt.html#t)」原本是有功能的 |
 
@@ -84,7 +84,7 @@
 
 | 按鍵 | 對應 | 說明 | 注意事項 |
 | --- | --- | --- | --- |
-| `,h` | [:hide](https://vimhelp.org/windows.txt.html#:hide) | 全部關閉 | 若未存檔，直接關閉，並且**隱藏**目前顯示的 Buffer|
+| `,h` | [:hide](https://vimhelp.org/windows.txt.html#:hide) | 單一關閉 | 若未存檔，直接關閉，並且**隱藏**目前顯示的 Buffer|
 
 > 可以使用「`,b`」來觀看「Buffer 列表」。
 
