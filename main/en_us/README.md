@@ -1,5 +1,5 @@
 
-# svim 使用說明
+# svim doc
 
 
 * [tool-svim-doc](https://samwhelp.github.io/tool-svim-doc/) ([GitHub](https://github.com/samwhelp/tool-svim-doc))
