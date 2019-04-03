@@ -1,6 +1,7 @@
 
 # 特色簡介
 
+
 ## 按鍵設定
 
 目前有幾個開頭的按鍵
@@ -118,3 +119,34 @@
 ## 其他對應
 
 還有其他的對應，暫時還沒寫說明文件，請先參考「[原始碼](https://github.com/samwhelp/tool-svim-core/blob/master/plugin/Svim.vim#L753)」。
+
+
+## 後續建議
+
+若對「Vim」裡的「Buffer」，「Window」，「TabPage」的相關概念，尚未釐清，
+
+建議可以閱讀「[usr_07.txt](https://vimhelp.org/usr_07.txt.html#usr_07.txt)」和「[usr_08.txt](https://vimhelp.org/usr_08.txt.html#usr_08.txt)」，來了解。
+
+在「shell」執行下面指令
+
+``` sh
+$ vim -c ':help usr_07.txt | :only'
+```
+
+在「shell」執行下面指令
+
+``` sh
+$ vim -c ':help usr_08.txt | :only'
+```
+
+也可以進到「vim」，執行下面指令
+
+``` vim
+:help usr_07.txt
+```
+
+和
+
+``` vim
+:help usr_08.txt
+```
