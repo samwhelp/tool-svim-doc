@@ -1,12 +1,16 @@
 
 # svim 使用說明
 
-
 * [tool-svim-doc](https://samwhelp.github.io/tool-svim-doc/) ([GitHub](https://github.com/samwhelp/tool-svim-doc))
+
+
+## 快速導覽
+
 * [主題索引](all.md)
+* [特色簡介](https://samwhelp.github.io/tool-svim-doc/main/zh_tw/#/feature)
 
 
-## Project
+## 相關專案
 
 * [tool-svim](https://github.com/samwhelp/tool-svim)
 * [tool-svim-core](https://github.com/samwhelp/tool-svim-core)
