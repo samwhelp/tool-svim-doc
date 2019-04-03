@@ -1,6 +1,9 @@
 
 # 特色簡介
 
+## 前提
+
+我操作「[vim](https://packages.ubuntu.com/bionic/vim)」的環境是「[Ubuntu 18.04](https://samwhelp.github.io/note-ubuntu-18.04/)」，桌面環境是「[lxqt](https://samwhelp.github.io/note-ubuntu-18.04/read/subject/lxqt/install-lxqt)」，使用的是「[gnome-terminal](https://packages.ubuntu.com/bionic/gnome-terminal)」或是「[qterminal](https://packages.ubuntu.com/bionic/qterminal)」。
 
 ## 按鍵設定
 
