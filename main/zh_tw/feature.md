@@ -23,6 +23,7 @@
 
 ### Normal Mode
 
+主要對「Buffer」，「Window」，「TabPage」增加了一些「按鍵」，來便利操作。
 
 #### 快速切換
 
@@ -81,7 +82,8 @@
 | --- | --- | --- |
 | `,h` | :hide | 全部關閉 (若未存檔，直接關閉) |
 
-可以使用「`,b`」來觀看「Buffer 列表」。
+> 可以使用「`,b`」來觀看「Buffer 列表」。
+
 
 #### 列表
 
@@ -91,6 +93,17 @@
 | `,m` | :marks | Mark 列表 |
 | `,r` | :registers | Register 列表 |
 
+
+#### Only
+
+| 按鍵 | 對應 | 說明 | 注意事項 |
+| --- | --- | --- | --- |
+| `,wa` | :only | 關閉其它 Window | 1. 被關閉的 Window，該顯示 Buffer 只是隱藏。 2.若有其他的「TabPage」，不會關閉其他「TabPage」的「Window」。 |
+| `twa` | :tabonly | 關閉其他 TabPage | 1. 被關閉的 TabPage，該顯示 Buffer 只是隱藏。 |
+
+> 可以使用「`,b`」來觀看「Buffer 列表」。
+
+> 可以對照上面「`,x`」和「`,c`」以及「`,h`」的功能。
 
 #### 存檔
 
