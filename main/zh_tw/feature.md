@@ -150,3 +150,7 @@ $ vim -c ':help usr_08.txt | :only'
 ``` vim
 :help usr_08.txt
 ```
+
+## 連結
+
+此頁的內容也可以連到「[GitHub](https://github.com/samwhelp/tool-svim-doc/blob/master/main/zh_tw/feature.md)」上觀看。
