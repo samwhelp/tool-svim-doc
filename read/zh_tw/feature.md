@@ -141,6 +141,11 @@
 
 還有其他的對應，暫時還沒寫說明文件，請先參考「[原始碼](https://github.com/samwhelp/tool-svim-core/blob/master/plugin/Svim.vim#L753)」。
 
+或是也可以執行「[:map](https://vimhelp.org/map.txt.html#:map)」就可查到我目前大部分的配置了。([Insert Mode 除外](https://vimhelp.org/map.txt.html#map-overview))
+
+執行「[:nmap](https://vimhelp.org/map.txt.html#:map)」就可查到我目前在「Normal Mode」配置。也可以採用縮寫「:nm」。
+
+執行「[:imap](https://vimhelp.org/map.txt.html#:map)」就可查到我目前在「Insert Mode」配置。也可以採用縮寫「:im」。
 
 ## 後續建議
 
