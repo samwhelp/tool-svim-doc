@@ -15,7 +15,7 @@
 | `,` | 常用 | 注意「[,](https://vimhelp.org/motion.txt.html#,)」原本是有功能的 |
 | `t` | TabPage 相關功能 | 注意「[t](https://vimhelp.org/motion.txt.html#t)」原本是有功能的 |
 
-> 關於「[,](https://vimhelp.org/motion.txt.html#,)」和「[f](https://vimhelp.org/motion.txt.html#f)」原本的功能，是「[f](https://vimhelp.org/motion.txt.html#f)」，「[F](https://vimhelp.org/motion.txt.html#F)」，「[t](https://vimhelp.org/motion.txt.html#t)」，「[T](https://vimhelp.org/motion.txt.html#T)」，搭配「[;](https://vimhelp.org/motion.txt.html#;)」和「[,](https://vimhelp.org/motion.txt.html#,)」這組的功能。
+> 關於「[,](https://vimhelp.org/motion.txt.html#,)」和「[t](https://vimhelp.org/motion.txt.html#t)」原本的功能，是「[f](https://vimhelp.org/motion.txt.html#f)」，「[F](https://vimhelp.org/motion.txt.html#F)」，「[t](https://vimhelp.org/motion.txt.html#t)」，「[T](https://vimhelp.org/motion.txt.html#T)」，搭配「[;](https://vimhelp.org/motion.txt.html#;)」和「[,](https://vimhelp.org/motion.txt.html#,)」這組的功能。
 
 > 可以執行「:help [normal-index](https://vimhelp.org/index.txt.html#normal-index)」，
 
