@@ -7,7 +7,7 @@
 ## 快速導覽
 
 * [主題索引](all.md)
-* [特色簡介](https://samwhelp.github.io/tool-svim-doc/read/zh_tw/#/feature)
+* [特色簡介](feature.md)
 
 
 ## 相關專案

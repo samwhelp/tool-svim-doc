@@ -29,6 +29,22 @@
 
 主要對「Buffer」，「Window」，「TabPage」增加了一些「按鍵」，來便利操作。
 
+> 以下都是在「Normal Mode」所做的按鍵操作。
+
+> 若是在其他「Mode」可以使用 「Ctrl+[」 或 「[Esc](https://vimhelp.org/intro.txt.html#escape)」  來返回「Normal Mode」， 接著再操作下面的按鍵功能，
+
+> 亦或是使用 <Ctrl+c> 也可以用來返回。
+
+舉例：要找到在「Insert Mode」要返回「Normal Mode」的按鍵相關說明，
+
+可以查詢
+「:help [i_CTRL-\[ ](https://vimhelp.org/insert.txt.html#i_CTRL-[)」
+「:help [i_CTRL-C ](https://vimhelp.org/insert.txt.html#i_CTRL-C)」
+可以找到相關說明。
+
+
+以下開始來說明我個人的按鍵配置
+
 #### 快速切換
 
 | 按鍵 | 對應 | 說明 |
