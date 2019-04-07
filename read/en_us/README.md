@@ -3,7 +3,11 @@
 
 
 * [tool-svim-doc](https://samwhelp.github.io/tool-svim-doc/) ([GitHub](https://github.com/samwhelp/tool-svim-doc))
+
+## Browse
+
 * [Subject](all.md)
+* [Feature](feature.md)
 
 
 ## Project

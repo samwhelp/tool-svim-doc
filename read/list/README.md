@@ -6,7 +6,7 @@
 
 ## Document / Languages
 
-* [English](https://samwhelp.github.io/tool-svim-doc/read/en_us/)
+* [English](https://samwhelp.github.io/tool-svim-doc/read/en_us/) ([Feature](https://samwhelp.github.io/tool-svim-doc/read/en_us/#/feature))
 * [繁體中文](https://samwhelp.github.io/tool-svim-doc/read/zh_tw/) ([特色簡介](https://samwhelp.github.io/tool-svim-doc/read/zh_tw/#/feature))
 
 
