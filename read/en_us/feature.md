@@ -70,7 +70,7 @@ I use (,) and (t) for my leader key.
 | Key | Map | Description |
 | --- | --- | --- |
 | `,wa` | [:only](https://vimhelp.org/windows.txt.html#:only) | to close other window, then all buffer will hide, if set [hidden](https://vimhelp.org/options.txt.html#'hidden'). |
-| `twa` | [:tabonly](https://vimhelp.org/tabpage.txt.html#:tabonly) | wa to close other tabpage, then all buffer will hide, if set [hidden](https://vimhelp.org/options.txt.html#'hidden'). |
+| `twa` | [:tabonly](https://vimhelp.org/tabpage.txt.html#:tabonly) | to close other tabpage, then all buffer will hide, if set [hidden](https://vimhelp.org/options.txt.html#'hidden'). |
 
 
 ## Buffer List
