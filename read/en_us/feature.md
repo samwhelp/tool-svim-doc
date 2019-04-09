@@ -1,6 +1,27 @@
 
 # Feature
 
+## Leader Key
+
+| Key | Map | Notice |
+| --- | --- | --- |
+| `,` | main | vim [,](https://vimhelp.org/motion.txt.html#,)」orginal had function |
+| `\` | sub | vim [leader](https://vimhelp.org/map.txt.html#mapleader)」default is [backslash](https://vimhelp.org/intro.txt.html#backslash) |
+| `t` | for TabPage  | vim [t](https://vimhelp.org/motion.txt.html#t) orginal had function |
+
+
+> About orginal [,](https://vimhelp.org/motion.txt.html#,) and [t](https://vimhelp.org/motion.txt.html#t), please read vim [f](https://vimhelp.org/motion.txt.html#f), [F](https://vimhelp.org/motion.txt.html#F), [t](https://vimhelp.org/motion.txt.html#t), [T](https://vimhelp.org/motion.txt.html#T), [;](https://vimhelp.org/motion.txt.html#;), [,](https://vimhelp.org/motion.txt.html#,).
+
+
+> Please read :help [normal-index](https://vimhelp.org/index.txt.html#normal-index)
+
+> Please read :help [,](https://vimhelp.org/motion.txt.html#,)
+
+> Please read :help [t](https://vimhelp.org/motion.txt.html#t)
+
+
+I use (,) and (t) for my leader key.
+
 
 ## Quick Switch
 
