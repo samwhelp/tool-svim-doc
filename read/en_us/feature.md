@@ -3,10 +3,10 @@
 
 ## Leader Key
 
-| Key | Map | Notice |
+| Key | Description | Notice |
 | --- | --- | --- |
-| `,` | main | vim [,](https://vimhelp.org/motion.txt.html#,) orginal had function |
-| `\` | sub | vim [leader](https://vimhelp.org/map.txt.html#mapleader), the default is [backslash](https://vimhelp.org/intro.txt.html#backslash) |
+| `,` | main leader key commonly used for me | vim [,](https://vimhelp.org/motion.txt.html#,) orginal had function |
+| `\` | second leader key for me | vim [leader](https://vimhelp.org/map.txt.html#mapleader), the default is [backslash](https://vimhelp.org/intro.txt.html#backslash) |
 | `t` | for TabPage  | vim [t](https://vimhelp.org/motion.txt.html#t) orginal had function |
 
 
