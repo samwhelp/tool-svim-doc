@@ -107,11 +107,9 @@ I use (,) and (t) for my leader key.
 
 ## Save
 
-| Key | Map | Description |
-| --- | --- | --- |
-| `<S-Tab>` | [:w](https://vimhelp.org/editing.txt.html#:w)&lt;CR&gt; | Write the whole buffer to the current file. |
-
-> Work on Normal Mode and Insert Mode
+| Key | Map | Description | Notice |
+| --- | --- | --- | --- |
+| `<S-Tab>` | [:w](https://vimhelp.org/editing.txt.html#:w)&lt;CR&gt; | Write the whole buffer to the current file. | Work on Normal Mode and Insert Mode |
 
 
 ## TabPage
