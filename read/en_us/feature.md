@@ -1,12 +1,26 @@
 
 # Feature
 
+## Key Binding
+
+* [Leader Key](#leader-key)
+* [Quick Switch](#quick-switch)
+* [Window Resize](#window-resize)
+* [Delete Buffer](#delete-buffer)
+* [Quit](#quit)
+* [Hide](#hide)
+* [Only](#only)
+* [Buffer List](#buffer-list)
+* [Save](#save)
+* [TabPage](#tabpage)
+
+
 ## Leader Key
 
-| Key | Description | Notice |
+| Key | Map | Notice |
 | --- | --- | --- |
-| `,` | main leader key commonly used for me | vim [,](https://vimhelp.org/motion.txt.html#,) orginal had function |
-| `\` | second leader key for me | vim [leader](https://vimhelp.org/map.txt.html#mapleader), the default is [backslash](https://vimhelp.org/intro.txt.html#backslash) |
+| `,` | main | vim [,](https://vimhelp.org/motion.txt.html#,)」orginal had function |
+| `\` | sub | vim [leader](https://vimhelp.org/map.txt.html#mapleader)」default is [backslash](https://vimhelp.org/intro.txt.html#backslash) |
 | `t` | for TabPage  | vim [t](https://vimhelp.org/motion.txt.html#t) orginal had function |
 
 
@@ -23,6 +37,7 @@
 I use (,) and (t) for my leader key.
 
 
+
 ## Quick Switch
 
 | Key | Map | Description |
@@ -35,24 +50,34 @@ I use (,) and (t) for my leader key.
 | `<Ctrl+l>` | [:tabnext](https://vimhelp.org/tabpage.txt.html#:tabnext)&lt;CR&gt; | To Next TabPage |
 
 
+## Window Resize
+
+| Key | Map |
+| --- | --- |
+| ` <S-Down>` | [&lt;C-w&gt;-](https://vimhelp.org/windows.txt.html#CTRL-W_-) |
+| ` <S-Up>` | [&lt;C-w&gt;+](https://vimhelp.org/windows.txt.html#CTRL-W_+) |
+| ` <S-Left>` | [&lt;C-w&gt;<](https://vimhelp.org/windows.txt.html#CTRL-W_<) |
+| ` <S-Right>` | [&lt;C-w&gt;>](https://vimhelp.org/windows.txt.html#CTRL-W_>) |
+
+
 ## Delete Buffer
 
 | Key | Map | Description | Notice |
 | --- | --- | --- | --- |
-| `,q` | [:bdelete](https://vimhelp.org/windows.txt.html#:bdelete) | delete current buffer | single |
-| `,x` | [:%bdelete](https://vimhelp.org/windows.txt.html#:bdelete) | delete all buffer | all |
-| `,z` | [:bdelete!](https://vimhelp.org/windows.txt.html#:bdelete) | force delete current buffer | single |
-| `,c` | [:%bdelete!](https://vimhelp.org/windows.txt.html#:bdelete) | force delete all buffer | all |
+| `,q` | [:bdelete](https://vimhelp.org/windows.txt.html#:bdelete)&lt;CR&gt; | delete current buffer | single |
+| `,x` | [:%bdelete](https://vimhelp.org/windows.txt.html#:bdelete)&lt;CR&gt; | delete all buffer | all |
+| `,z` | [:bdelete!](https://vimhelp.org/windows.txt.html#:bdelete)&lt;CR&gt; | force delete current buffer | single |
+| `,c` | [:%bdelete!](https://vimhelp.org/windows.txt.html#:bdelete)&lt;CR&gt; | force delete all buffer | all |
 
 
 ## Quit
 
 | Key | Map | Description | Notice |
 | --- | --- | --- | --- |
-| `\q` | [:q](https://vimhelp.org/editing.txt.html#:q) | quit | single |
-| `\x` | [:qa](https://vimhelp.org/editing.txt.html#:qa) | quit all | all |
-| `\z` | [:q!](https://vimhelp.org/editing.txt.html#:q) | force quit | single |
-| `\c` | [:qa!](https://vimhelp.org/editing.txt.html#:qa) | force quit all | all |
+| `\q` | [:q](https://vimhelp.org/editing.txt.html#:q)&lt;CR&gt; | quit | single |
+| `\x` | [:qa](https://vimhelp.org/editing.txt.html#:qa)&lt;CR&gt; | quit all | all |
+| `\z` | [:q!](https://vimhelp.org/editing.txt.html#:q)&lt;CR&gt; | force quit | single |
+| `\c` | [:qa!](https://vimhelp.org/editing.txt.html#:qa)&lt;CR&gt; | force quit all | all |
 
 > Please read :help ['confirm'](https://vimhelp.org/options.txt.html#'confirm').
 
@@ -61,7 +86,7 @@ I use (,) and (t) for my leader key.
 
 | Key | Map | Description | Notice |
 | --- | --- | --- | --- |
-| `,h` | [:hide](https://vimhelp.org/windows.txt.html#:hide) | hide current buffer | single |
+| `,h` | [:hide](https://vimhelp.org/windows.txt.html#:hide)&lt;CR&gt; | hide current buffer | single |
 
 > Compare with `,x`, `,c`, `\x`, `\c`, `,h`。
 
@@ -69,22 +94,22 @@ I use (,) and (t) for my leader key.
 
 | Key | Map | Description |
 | --- | --- | --- |
-| `,wa` | [:only](https://vimhelp.org/windows.txt.html#:only) | to close other window, then all buffer will hide, if set [hidden](https://vimhelp.org/options.txt.html#'hidden'). |
-| `twa` | [:tabonly](https://vimhelp.org/tabpage.txt.html#:tabonly) | to close other tabpage, then all buffer will hide, if set [hidden](https://vimhelp.org/options.txt.html#'hidden'). |
+| `,wa` | [:only](https://vimhelp.org/windows.txt.html#:only)&lt;CR&gt; | to close other window, then all buffer will hide, if set [hidden](https://vimhelp.org/options.txt.html#'hidden'). |
+| `twa` | [:tabonly](https://vimhelp.org/tabpage.txt.html#:tabonly)&lt;CR&gt; | wa to close other tabpage, then all buffer will hide, if set [hidden](https://vimhelp.org/options.txt.html#'hidden'). |
 
 
 ## Buffer List
 
 | Key | Map | Description |
 | --- | --- | --- |
-| `,b` | [:ls](https://vimhelp.org/windows.txt.html#:ls) | Show all buffers. |
+| `,b` | [:ls](https://vimhelp.org/windows.txt.html#:ls)&lt;CR&gt; | Show all buffers. |
 
 
 ## Save
 
 | Key | Map | Description |
 | --- | --- | --- |
-| `,s` | [:w](https://vimhelp.org/editing.txt.html#:w) | Write the whole buffer to the current file. |
+| `,s` | [:w](https://vimhelp.org/editing.txt.html#:w)&lt;CR&gt; | Write the whole buffer to the current file. |
 
 
 
