@@ -130,9 +130,10 @@
 
 #### 存檔
 
-| 按鍵 | 對應 | 說明 |
-| --- | --- | --- |
-| `,s` | [:w](https://vimhelp.org/editing.txt.html#:w) | 目前視窗顯示的 Buffer 存檔 |
+| 按鍵 | 對應 | 說明 | 注意事項 |
+| --- | --- | --- | --- |
+| `<S-Tab>` | [:w](https://vimhelp.org/editing.txt.html#:w) | 將目前視窗顯示的 Buffer 存檔 | 在「Normal Mode」和「Insert Mode」都會運作 |
+
 
 其他的存檔功能，目前我是直接下指令，例如「[:saveas ](https://vimhelp.org/editing.txt.html#:saveas)」或「[:w ](https://vimhelp.org/editing.txt.html#:w_f)」。
 

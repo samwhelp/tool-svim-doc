@@ -109,8 +109,9 @@ I use (,) and (t) for my leader key.
 
 | Key | Map | Description |
 | --- | --- | --- |
-| `,s` | [:w](https://vimhelp.org/editing.txt.html#:w)&lt;CR&gt; | Write the whole buffer to the current file. |
+| `<S-Tab>` | [:w](https://vimhelp.org/editing.txt.html#:w)&lt;CR&gt; | Write the whole buffer to the current file. |
 
+> Work on Normal Mode and Insert Mode
 
 
 ## TabPage
