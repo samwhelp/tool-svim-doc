@@ -19,8 +19,8 @@
 
 | Key | Map | Notice |
 | --- | --- | --- |
-| `,` | main | vim [,](https://vimhelp.org/motion.txt.html#,) orginal had function |
-| `\` | sub | vim [leader](https://vimhelp.org/map.txt.html#mapleader) default is [backslash](https://vimhelp.org/intro.txt.html#backslash) |
+| `,` | for main use | vim [,](https://vimhelp.org/motion.txt.html#,) orginal had function |
+| `\` | for sub use | vim [leader](https://vimhelp.org/map.txt.html#mapleader) default is [backslash](https://vimhelp.org/intro.txt.html#backslash) |
 | `t` | for TabPage  | vim [t](https://vimhelp.org/motion.txt.html#t) orginal had function |
 
 
