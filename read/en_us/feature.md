@@ -13,6 +13,7 @@
 * [Buffer List](#buffer-list)
 * [Save](#save)
 * [TabPage](#tabpage)
+* [Line Move](#line-move)
 
 
 ## Leader Key
@@ -155,3 +156,11 @@ I use (,) and (t) for my leader key.
 | `tml` | [:+tabmove](https://vimhelp.org/tabpage.txt.html#:tabmove)&lt;CR&gt; | Tab Move to Right |
 | `tmj` | [:0tabmove](https://vimhelp.org/tabpage.txt.html#:tabmove)&lt;CR&gt; | Tab Move to First |
 | `tmk` | [:$tabmove](https://vimhelp.org/tabpage.txt.html#:tabmove)&lt;CR&gt; | Tab Move to Last |
+
+
+## Line Move
+
+| Key | Map | Description | Notice |
+| --- | --- | --- | --- |
+| `<S-PageUp>` | [:m-2](https://vimhelp.org/change.txt.html#:m)&lt;CR&gt; | Move line up. | Work on Normal Mode and Insert Mode |
+| `<S-PageDown>` | [:m+](https://vimhelp.org/change.txt.html#:m)&lt;CR&gt; | Move line Down. | Work on Normal Mode and Insert Mode |
