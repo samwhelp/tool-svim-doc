@@ -27,7 +27,7 @@ $ vimrc-get svim
 | ~/.local/share/applications/svim.desktop | svim.desktop file path |
 
 
-| 路徑 | Note |
+| 路徑 | 說明 |
 | --- | --- |
 | ~/.cache/svim/site/autoload/plug.vim | plug.vim file path |
 | ~/.cache/svim/plug | plug dir path |
