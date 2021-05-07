@@ -2,7 +2,7 @@
 title: Plugin
 nav_order: 1020
 has_children: false
-parent: feature
+parent: Feature
 grand_parent: en_us
 ---
 
