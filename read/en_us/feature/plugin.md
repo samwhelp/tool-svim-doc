@@ -40,4 +40,4 @@ grand_parent: en_us
 
 | Plugin | Note |
 | --- | --- |
-| Ntpeters / [vim-better-whitespace](https://github.com/Ntpeters/vim-better-whitespace) | |
+| ntpeters / [vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) | |
