@@ -36,18 +36,8 @@ grand_parent: zh_tw
 | lilydjwg / [fcitx.vim](https://github.com/lilydjwg/fcitx.vim) | |
 
 
-## File
-
-| Plugin | Note |
-| --- | --- |
-| scrooloose / [nerdtree](https://github.com/scrooloose/nerdtree) | |
-| ptzz / [lf.vim](https://github.com/ptzz/lf.vim) | |
-| francoiscabrol / [ranger.vim](https://github.com/francoiscabrol/ranger.vim) | |
-
-
 ## Misc
 
 | Plugin | Note |
 | --- | --- |
-| liuchengxu / [vim-which-key](https://github.com/liuchengxu/vim-which-key) | |
-| liuchengxu / [eleline.vim](https://github.com/liuchengxu/eleline.vim) | |
+| Ntpeters / [vim-better-whitespace](https://github.com/Ntpeters/vim-better-whitespace) | |

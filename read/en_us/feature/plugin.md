@@ -34,3 +34,10 @@ grand_parent: en_us
 | Plugin | Note |
 | --- | --- |
 | lilydjwg / [fcitx.vim](https://github.com/lilydjwg/fcitx.vim) | |
+
+
+## Misc
+
+| Plugin | Note |
+| --- | --- |
+| Ntpeters / [vim-better-whitespace](https://github.com/Ntpeters/vim-better-whitespace) | |
